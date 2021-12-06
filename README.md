@@ -1,4 +1,5 @@
 # ForgeTemplate
+Everything but the Java Classes are thanks and are credited to SizeableShrimps ForgeTemplates found [Here](https://github.com/SizableShrimp/ForgeTemplate/tree/1.12.x)
 
 ## Setting up
 * Open up `gradle.properties` and change all the necessary properties
